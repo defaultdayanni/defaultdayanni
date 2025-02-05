@@ -17,5 +17,4 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 
 # 😄 about me
-
 I am Dayanni Elias, a professional passionate about technology. During my studies in Computer Engineering at the Federal University of Mato Grosso (UFMT), I was a CNPQ scholarship holder, where I had the opportunity to participate in scientific initiation projects, where I had contact with the area of ​​engineering and programming, but specifically in C++. I have experience with infrastructure and support and configuring servers and networks through my internship. I worked as a project manager where I coordinated the creation of the company's financial system entirely in Python.
